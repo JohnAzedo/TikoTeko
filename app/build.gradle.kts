@@ -55,6 +55,7 @@ dependencies {
     implementation("androidx.compose.runtime:runtime-livedata:1.1.1")
     implementation("androidx.compose.runtime:runtime-rxjava2:1.1.1")
     implementation("androidx.activity:activity-compose:1.4.0")
+    implementation("com.google.android.exoplayer:exoplayer:2.11.7")
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.3")
